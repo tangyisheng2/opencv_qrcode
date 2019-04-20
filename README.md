@@ -1,1 +1,2 @@
 # opencv_qrcode
+https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/
